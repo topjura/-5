@@ -1,0 +1,21 @@
+
+.buttona{
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    background-color: rgb(192, 192, 192);
+    padding: 12px 34px;
+    border-radius: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+margin-top: 100px;
+ margin-left: 100px;
+ transition: 5s;
+}
+.buttona:hover{
+        background-color: rgb(255, 0, 0);
+  color: rgb(192, 192, 192);
+  transform: rotateY(-55deg);
+  transform: rotateZ(22deg);
+}
+
